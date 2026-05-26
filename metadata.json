@@ -1,0 +1,6 @@
+{
+  "name": "Hirawati School",
+  "description": "Official app of Hirawati Senior Secondary School, featuring student, teacher, and admin portals, automated tests, study notes, results, gallery, notice board, and Gemini AI Homework Helper, Doubt Solver, and Summarizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
